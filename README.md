@@ -12,7 +12,8 @@
 <a href="https://linkedin.com/in/orel--dayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="orel--dayan" height="30" width="40" /></a></p>
 
 # 💫 About Me:
-I'm a Computer Science student at Ariel University. In my free time, I learn how to develop games using the Unity Engine.<br>
+- I'm a Computer Science student at Ariel University.
+- In my free time, I learn how to develop games using the Unity Engine.<br>
 
 # 💻 Technical Skills 
 
